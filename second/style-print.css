@@ -1,0 +1,31 @@
+body {
+	background: none;
+}
+
+.header img {
+	display:none;
+}
+
+.nav {
+	display: none;
+}
+
+.container {
+	margin: 0;
+}
+
+.menu {
+	position: static;
+	width: 280px;
+	margin: 2px 9px 7px 3px;
+	border-top: none;
+	border-left: none;
+}
+
+.menu h3 {
+	font-size: 24px;
+}
+
+.content {
+	margin: 0;
+}
